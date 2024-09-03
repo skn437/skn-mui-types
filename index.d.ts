@@ -4,7 +4,7 @@ import { type Theme, type SxProps } from "@mui/material/styles";
  * SKN Material UI Type Extension Library
  *
  * @author SKN Shukhan
- * @version 1.0.0
+ * @version 1.0.1
  * @since 2024-08-25
  * */
 declare module "@mui/material" {

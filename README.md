@@ -10,7 +10,7 @@
 
 ## **_Introduction:_**
 
-### This is a simple TypeScript Type Extension Library for Material UI 5, React 18 & also for Next.js 14
+### This is a simple TypeScript Type Extension Library for Material UI 6, React 18 & also for Next.js 14
 
 ### I made this library so that I can use it in all of my Next.js 14 projects without writing the same codes over and over again
 
@@ -38,7 +38,7 @@
 
 ### This library has peer dependency for React & React DOM of minimum 18.3.1. It may or may not work on 19.x
 
-### It has peer dependency for Material UI of minimum 5.16.7. It may or may not work on 6.x
+### It has peer dependency for Material UI of minimum 6.0.1. It may or may not work on 7.x
 
 ### This library is intended to be used in Next.js of minimum 14.2.3. It may or may not work on 15.x
 
@@ -47,7 +47,7 @@
 - 💀 Minimum [react-dom](https://www.npmjs.com/package/react-dom) Version: `18.3.1`
 - 💀 Minimum [@types/react-dom](https://www.npmjs.com/package/@types/react-dom) Version: `18.3.0`
 - 💀 Minimum [next](https://www.npmjs.com/package/next) Version: `14.2.3`
-- 💀 Minimum [material-ui](https://www.npmjs.com/package/@mui/material) Version: `5.16.7`
+- 💀 Minimum [material-ui](https://www.npmjs.com/package/@mui/material) Version: `6.0.1`
 
 &nbsp;
 
